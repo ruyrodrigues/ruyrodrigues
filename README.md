@@ -24,4 +24,5 @@
  
   ![Snake animation](https://github.com/ruyrodrigues/ruyrodrigues/blob/output/github-contribution-grid-snake.svg)
  
+  ![](https://komarev.com/ghpvc/?username=ruyrodrigues&color=ff69b4)
 </div>
