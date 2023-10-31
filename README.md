@@ -2,7 +2,7 @@
 
 
 - 🔭  Atualmente trabalho com desenvolvimento mobile iOS na BRQ Digital Solutions!
-- 📚  Estudando: Swift, JavaScript.
+- 📚  Estudando: Swift, JavaScript e Laravel.
 - ✍️ Cursando o 6º período de Engenharia de Software, Unifil (Londrina, PR).
 
   ##
